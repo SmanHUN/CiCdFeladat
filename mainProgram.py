@@ -3,3 +3,5 @@ def Function(a):
         return "Hello World"
     if a % 2 == 0.02:
         return "No Hello World"
+
+function(1)
